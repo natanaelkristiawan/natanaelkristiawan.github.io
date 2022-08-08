@@ -8,6 +8,11 @@ module.exports = {
     "./nuxt.config.{js,ts}",
   ],
   theme: {
+    fontFamily: {
+      mono: ['IBM Plex Mono'],
+      rubik: 'Rubik'
+
+    },
     extend: {
       colors : {
         'dark-navi' : '#020c1b',

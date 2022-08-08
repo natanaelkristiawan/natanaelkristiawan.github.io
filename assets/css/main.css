@@ -4,6 +4,18 @@
 
 @layer base {
     html {
-      @apply text-white;
-    } 
+      @apply text-white-dream font-rubik;
+    }
+    a, h1 {
+      @apply font-mono
+    }
+
+    main {
+      @apply container mx-auto
+    }
+
+    section {
+      max-width: 1000px;
+      @apply mx-auto
+    }
   }

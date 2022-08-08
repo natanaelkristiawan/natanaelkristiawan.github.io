@@ -1,11 +1,10 @@
 <template>
   <div>
-    <BaseNavMain></BaseNavMain>
+    <Navigation></Navigation>
+    <div id="content">
+      <main class="">
+        <Hero></Hero>
+      </main>
+    </div>
   </div>
 </template>
-
-<script>
-export default {
-  name: 'IndexPage'
-}
-</script>

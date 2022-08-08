@@ -19,7 +19,7 @@ export default {
       },
       {
         rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400&family=Rubik:wght@300;400;500&display=swap'
+        href: 'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Roboto+Mono:wght@300;400&family=Rubik:wght@300;400;500&display=swap'
       },
     ],
     bodyAttrs: {
